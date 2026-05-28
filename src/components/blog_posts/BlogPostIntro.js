@@ -1,4 +1,3 @@
-import ButtonDark from '../UI/ButtonDark';
 import H3Header from '../UI/H3Header';
 
 const BlogPostIntro = props => {

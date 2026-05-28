@@ -1,6 +1,4 @@
 import ContactForm from "./ContactForm";
-import ButtonLight from "../UI/ButtonLight";
-import H3Header from "../UI/H3Header";
 import ParagraphLight from "../UI/ParagraphLight";
 import SectionHeader from "../UI/SectionHeader";
 import EmailOptions from "../UI/EmailOptions";
